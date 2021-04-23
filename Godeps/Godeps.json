@@ -1,0 +1,6 @@
+{
+	"ImportPath": "fliprd11",
+	"GoVersion": "go1.16",
+	"GodepVersion": "v80",
+	"Deps": []
+}

@@ -1,1 +1,1 @@
-web: bin/fliprd11
+web: go run main.go
